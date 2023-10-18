@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
   const imageList = {
-    alpaca: '/img/alpaca.png',
+    alpaca: 'img/alpaca.png',
     capybara: '/img/capybara.png',
     cat: '/img/cat.png',
     crab: '/img/crab.png',
